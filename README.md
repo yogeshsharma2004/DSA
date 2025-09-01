@@ -29,8 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/yogeshsharma2004/DSA/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/yogeshsharma2004/DSA/tree/master/0409-longest-palindrome) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
