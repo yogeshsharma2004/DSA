@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/yogeshsharma2004/DSA/tree/master/0041-first-missing-positive) |
 | [0387-first-unique-character-in-a-string](https://github.com/yogeshsharma2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yogeshsharma2004/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/yogeshsharma2004/DSA/tree/master/0409-longest-palindrome) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/yogeshsharma2004/DSA/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0047-permutations-ii) |
 | [0238-product-of-array-except-self](https://github.com/yogeshsharma2004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
