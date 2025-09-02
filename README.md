@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/yogeshsharma2004/DSA/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/yogeshsharma2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yogeshsharma2004/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/yogeshsharma2004/DSA/tree/master/0409-longest-palindrome) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0047-permutations-ii) |
+| [0179-largest-number](https://github.com/yogeshsharma2004/DSA/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/yogeshsharma2004/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/yogeshsharma2004/DSA/tree/master/0506-relative-ranks) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/yogeshsharma2004/DSA/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/yogeshsharma2004/DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/yogeshsharma2004/DSA/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/yogeshsharma2004/DSA/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0047-permutations-ii) |
 | [0134-gas-station](https://github.com/yogeshsharma2004/DSA/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/yogeshsharma2004/DSA/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/yogeshsharma2004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/yogeshsharma2004/DSA/tree/master/0506-relative-ranks) |
