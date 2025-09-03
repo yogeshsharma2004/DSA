@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yogeshsharma2004/DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/yogeshsharma2004/DSA/tree/master/0409-longest-palindrome) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0670-maximum-swap](https://github.com/yogeshsharma2004/DSA/tree/master/0670-maximum-swap) |
 ## Array
 |  |
 | ------- |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/yogeshsharma2004/DSA/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
