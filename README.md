@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/yogeshsharma2004/DSA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/yogeshsharma2004/DSA/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/yogeshsharma2004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/yogeshsharma2004/DSA/tree/master/0506-relative-ranks) |
@@ -78,4 +79,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
