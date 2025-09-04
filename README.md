@@ -122,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/yogeshsharma2004/DSA/tree/master/0670-maximum-swap) |
+| [3830-find-closest-person](https://github.com/yogeshsharma2004/DSA/tree/master/3830-find-closest-person) |
 <!---LeetCode Topics End-->
