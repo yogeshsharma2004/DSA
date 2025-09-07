@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/yogeshsharma2004/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/yogeshsharma2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0047-permutations-ii) |
 | [0059-spiral-matrix-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0134-gas-station](https://github.com/yogeshsharma2004/DSA/tree/master/0134-gas-station) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yogeshsharma2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Math
 |  |
@@ -153,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yogeshsharma2004/DSA/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yogeshsharma2004/DSA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yogeshsharma2004/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yogeshsharma2004/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
