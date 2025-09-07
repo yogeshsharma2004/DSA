@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/yogeshsharma2004/DSA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/yogeshsharma2004/DSA/tree/master/0179-largest-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yogeshsharma2004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/yogeshsharma2004/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/yogeshsharma2004/DSA/tree/master/0506-relative-ranks) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yogeshsharma2004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yogeshsharma2004/DSA/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/yogeshsharma2004/DSA/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yogeshsharma2004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/yogeshsharma2004/DSA/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yogeshsharma2004/DSA/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yogeshsharma2004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/yogeshsharma2004/DSA/tree/master/0506-relative-ranks) |
 ## Prefix Sum
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/yogeshsharma2004/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yogeshsharma2004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/yogeshsharma2004/DSA/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yogeshsharma2004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
