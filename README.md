@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/yogeshsharma2004/DSA/tree/master/0041-first-missing-positive) |
+| [0347-top-k-frequent-elements](https://github.com/yogeshsharma2004/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yogeshsharma2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yogeshsharma2004/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/yogeshsharma2004/DSA/tree/master/0409-longest-palindrome) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yogeshsharma2004/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yogeshsharma2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/yogeshsharma2004/DSA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/yogeshsharma2004/DSA/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/yogeshsharma2004/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yogeshsharma2004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/yogeshsharma2004/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yogeshsharma2004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yogeshsharma2004/DSA/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/yogeshsharma2004/DSA/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/yogeshsharma2004/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yogeshsharma2004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/yogeshsharma2004/DSA/tree/master/0506-relative-ranks) |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yogeshsharma2004/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/yogeshsharma2004/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yogeshsharma2004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/yogeshsharma2004/DSA/tree/master/0506-relative-ranks) |
 ## Prefix Sum
@@ -86,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/yogeshsharma2004/DSA/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/yogeshsharma2004/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -139,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/yogeshsharma2004/DSA/tree/master/0289-game-of-life) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yogeshsharma2004/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yogeshsharma2004/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
