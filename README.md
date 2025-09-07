@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/yogeshsharma2004/DSA/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0047-permutations-ii) |
+| [0059-spiral-matrix-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0134-gas-station](https://github.com/yogeshsharma2004/DSA/tree/master/0134-gas-station) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/yogeshsharma2004/DSA/tree/master/0164-maximum-gap) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/yogeshsharma2004/DSA/tree/master/0289-game-of-life) |
 ## Sliding Window
@@ -130,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/yogeshsharma2004/DSA/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
