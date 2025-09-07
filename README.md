@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/yogeshsharma2004/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/yogeshsharma2004/DSA/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yogeshsharma2004/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/yogeshsharma2004/DSA/tree/master/0670-maximum-swap) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yogeshsharma2004/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3830-find-closest-person](https://github.com/yogeshsharma2004/DSA/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
