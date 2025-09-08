@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/yogeshsharma2004/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/yogeshsharma2004/DSA/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yogeshsharma2004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Depth-First Search
 |  |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogeshsharma2004/DSA/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yogeshsharma2004/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
