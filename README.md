@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/yogeshsharma2004/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/yogeshsharma2004/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/yogeshsharma2004/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/yogeshsharma2004/DSA/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/yogeshsharma2004/DSA/tree/master/0400-nth-digit) |
 | [0670-maximum-swap](https://github.com/yogeshsharma2004/DSA/tree/master/0670-maximum-swap) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/yogeshsharma2004/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/yogeshsharma2004/DSA/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/yogeshsharma2004/DSA/tree/master/0289-game-of-life) |
 ## Divide and Conquer
 |  |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/yogeshsharma2004/DSA/tree/master/0096-unique-binary-search-trees) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yogeshsharma2004/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
