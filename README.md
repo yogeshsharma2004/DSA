@@ -143,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogeshsharma2004/DSA/tree/master/0042-trapping-rain-water) |
+| [0096-unique-binary-search-trees](https://github.com/yogeshsharma2004/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/yogeshsharma2004/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/yogeshsharma2004/DSA/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/yogeshsharma2004/DSA/tree/master/0400-nth-digit) |
 | [0670-maximum-swap](https://github.com/yogeshsharma2004/DSA/tree/master/0670-maximum-swap) |
@@ -192,4 +194,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/yogeshsharma2004/DSA/tree/master/3462-vowels-game-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/yogeshsharma2004/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/yogeshsharma2004/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/yogeshsharma2004/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
