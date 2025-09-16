@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yogeshsharma2004/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yogeshsharma2004/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/yogeshsharma2004/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/yogeshsharma2004/DSA/tree/master/0670-maximum-swap) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yogeshsharma2004/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/yogeshsharma2004/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/yogeshsharma2004/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/yogeshsharma2004/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/yogeshsharma2004/DSA/tree/master/3830-find-closest-person) |
 ## Simulation
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogeshsharma2004/DSA/tree/master/0042-trapping-rain-water) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/yogeshsharma2004/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yogeshsharma2004/DSA/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/yogeshsharma2004/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Counting Sort
 |  |
 | ------- |
