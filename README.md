@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/yogeshsharma2004/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/yogeshsharma2004/DSA/tree/master/0463-island-perimeter) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/yogeshsharma2004/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/yogeshsharma2004/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/yogeshsharma2004/DSA/tree/master/0463-island-perimeter) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/yogeshsharma2004/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/yogeshsharma2004/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogeshsharma2004/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yogeshsharma2004/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/yogeshsharma2004/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
