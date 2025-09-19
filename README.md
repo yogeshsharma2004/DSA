@@ -127,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogeshsharma2004/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/yogeshsharma2004/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogeshsharma2004/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/yogeshsharma2004/DSA/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/yogeshsharma2004/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Union Find
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/yogeshsharma2004/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogeshsharma2004/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/yogeshsharma2004/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/yogeshsharma2004/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogeshsharma2004/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/yogeshsharma2004/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Number Theory
 |  |
 | ------- |
