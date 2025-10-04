@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yogeshsharma2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yogeshsharma2004/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/yogeshsharma2004/DSA/tree/master/0409-longest-palindrome) |
+| [0979-di-string-match](https://github.com/yogeshsharma2004/DSA/tree/master/0979-di-string-match) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yogeshsharma2004/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3462-vowels-game-in-a-string](https://github.com/yogeshsharma2004/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yogeshsharma2004/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/yogeshsharma2004/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/yogeshsharma2004/DSA/tree/master/0670-maximum-swap) |
+| [0979-di-string-match](https://github.com/yogeshsharma2004/DSA/tree/master/0979-di-string-match) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yogeshsharma2004/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/yogeshsharma2004/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0979-di-string-match](https://github.com/yogeshsharma2004/DSA/tree/master/0979-di-string-match) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yogeshsharma2004/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yogeshsharma2004/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yogeshsharma2004/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogeshsharma2004/DSA/tree/master/0042-trapping-rain-water) |
+| [0979-di-string-match](https://github.com/yogeshsharma2004/DSA/tree/master/0979-di-string-match) |
 ## Stack
 |  |
 | ------- |
