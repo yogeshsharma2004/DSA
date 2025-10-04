@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yogeshsharma2004/DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/yogeshsharma2004/DSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/yogeshsharma2004/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/yogeshsharma2004/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/yogeshsharma2004/DSA/tree/master/0670-maximum-swap) |
 ## Array
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/yogeshsharma2004/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yogeshsharma2004/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/yogeshsharma2004/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/yogeshsharma2004/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogeshsharma2004/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yogeshsharma2004/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yogeshsharma2004/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
