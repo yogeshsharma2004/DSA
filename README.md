@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yogeshsharma2004/DSA/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/yogeshsharma2004/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/yogeshsharma2004/DSA/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/yogeshsharma2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yogeshsharma2004/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yogeshsharma2004/DSA/tree/master/0042-trapping-rain-water) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yogeshsharma2004/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
